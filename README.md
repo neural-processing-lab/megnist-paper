@@ -27,3 +27,19 @@ machine-learning-ready training, validation and test splits.
 
 ```bash
 pip install -r requirements.txt
+
+
+## Citation
+
+If you use MegNIST, please cite:
+
+Kwon, T., Somaiya, P., Elvers, G., Mantegna, F., Camera, A.,
+Braeutigam, S., Woolrich, M. and Parker Jones, O. (2026).
+MegNIST: A Benchmark for Non-Invasive Inner Speech Decoding.
+
+## Licence
+
+Code in this repository is released under the MIT License.
+
+The MegNIST dataset is distributed separately under CC BY-NC 4.0;
+see the Hugging Face dataset page for its licence terms.
