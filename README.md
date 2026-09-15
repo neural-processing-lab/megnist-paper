@@ -27,7 +27,7 @@ machine-learning-ready training, validation and test splits.
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Citation
 
