@@ -10,5 +10,4 @@ huggingface-hub>=0.19
 tqdm>=4.66
 
 # PNPL MegNIST loader.
-# This points to main so the file remains valid after the current loader PR is merged.
 pnpl @ git+https://github.com/neural-processing-lab/pnpl.git@main
