@@ -1,0 +1,14 @@
+# Minimal dependencies for MegNIST paper reproduction
+numpy>=1.24,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+seaborn>=0.13,<1
+h5py>=3.10,<4
+torch>=2.1
+mne>=1.4.2,<2
+huggingface-hub>=0.19
+tqdm>=4.66
+
+# PNPL MegNIST loader.
+# This points to main so the file remains valid after the current loader PR is merged.
+pnpl @ git+https://github.com/neural-processing-lab/pnpl.git@main
